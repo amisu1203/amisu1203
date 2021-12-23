@@ -3,14 +3,19 @@
 </div>  
   
 
-### <div align="center">안녕하세요? 저는 박지수입니다. 반갑습니다.</div>  
+### <div align="center">안녕하세요. 프론트엔드 개발자 박지수입니다.</div>  
   
 
-- 제 깃헙 주소는 [https://github.com/amisu1203](https://github.com/amisu1203)    
+- 제 깃헙 주소는 [https://github.com/amisu1203](https://github.com/amisu1203)  
+  
+
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-    
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
@@ -92,6 +97,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisu1203&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
+
+
+## Recent Blog Posts  
   
 
 <br/>  
