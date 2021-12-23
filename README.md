@@ -1,10 +1,13 @@
 <div align="center">
 <img src="https://github.com/amisu1203/amisu1203/blob/main/img/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF.jpg?raw=true" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">안녕하세요. 프론트엔드 개발자 박지수입니다.</div>  
+<br/>
+<br/>
+
+## <div align="center">지속적인 개선이 지속적인 성장이라고 믿는 개발자입니다.</div>  
   
+<br/>
 
 - 제 깃헙 주소는 [https://github.com/amisu1203](https://github.com/amisu1203)  
   
