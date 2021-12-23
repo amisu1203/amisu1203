@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/amisu1203/amisu1203/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF.jpg?raw=true" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
   
 
