@@ -5,7 +5,8 @@
 <br/>
 <br/>
 
-### <div align="center">Continuous improvement makes continuous success.</br>지속적인 개선이 지속적인 성공을 만든다고 생각합니다.</div>  
+## <div align="center">Continuous improvement makes continuous success.</br> 지속적인 개선이 지속적인 성공을 만든다고 생각합니다.
+  </div>  
   
 <br/>
 <br/>
@@ -66,10 +67,19 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amisu1203&show_icons=true&count_private=true&hide_border=true" align="center"/></div>  
+## Stats and Language 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisu1203&hide_border=true&layout=compact" align="center"/>  
+<table><tr><td valign="top" width="100%">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amisu1203&show_icons=true&count_private=true&hide_border=true" align="center"/>
+</div>  
 
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisu1203&hide_border=true&layout=compact" align="center"/>  
+</div>
+
+  
+  
 <br/>  
 
