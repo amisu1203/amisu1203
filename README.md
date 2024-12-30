@@ -68,13 +68,6 @@
 <br/>  
 
 
-## Stats and Language 
-
-<table><tr><td valign="top" width="100%">
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amisu1203&show_icons=true&count_private=true&hide_border=true" align="center"/>
-</div>  
-
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisu1203&hide_border=true&layout=compact" align="center"/>  
